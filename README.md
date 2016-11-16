@@ -2,7 +2,7 @@
 
 This output plugin to post to "Amazon Elasticsearch Service".
 
-## Installation
+## Installation 
 
 Add this line to your application's Gemfile:
 
